@@ -2,7 +2,7 @@
 
 **Last Updated:** February 9, 2026
 
-This Privacy Policy describes how [您的名稱或開發者名稱] ("we," "us," or "our") handles information in relation to the [遊戲名稱] dApp.
+This Privacy Policy describes how go365 ("we," "us," or "our") handles information in relation to the [遊戲名稱] dApp.
 
 ## 1. Information Collection
 As a decentralized single-player application, we prioritize user privacy. 
