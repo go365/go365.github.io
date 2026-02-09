@@ -5,7 +5,7 @@
 ---
 
 ### 1. Ownership of Content
-All intellectual property rights in this application, including but not limited to the software code, graphics, user interface design, sound effects, and brand assets (the "Content"), are owned by **[您的名稱或開發者名稱]**. 
+All intellectual property rights in this application, including but not limited to the software code, graphics, user interface design, sound effects, and brand assets (the "Content"), are owned by **go365**. 
 
 ### 2. Grant of License
 This application is licensed, not sold. By installing and using this dApp, users are granted a personal, non-exclusive, and non-transferable license to use the Content for private, non-commercial purposes only, subject to the terms of the platform.
